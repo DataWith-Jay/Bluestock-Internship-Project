@@ -36,3 +36,15 @@ print("\nRisk Categories:")
 print(sorted(df["risk_category"].unique()))
 
 
+
+
+
+
+
+
+
+
+
+
+
+
